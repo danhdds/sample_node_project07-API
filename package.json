@@ -1,0 +1,19 @@
+{
+  "name": "sample_node_project07-api",
+  "version": "1.0.0",
+  "description": "API para monitorar aplicações",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danhdds/sample_node_project07-API.git"
+  },
+  "author": "Danilo Abreu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danhdds/sample_node_project07-API/issues"
+  },
+  "homepage": "https://github.com/danhdds/sample_node_project07-API#readme"
+}
